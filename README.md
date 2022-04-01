@@ -19,4 +19,8 @@ Example of the output from Kea for bin picking.
 
 ![Scheme](doc/d435_cloud.png)
 
-Example of the output 
+Example of the output from the D435. 
+
+![Scheme](doc/kea_vs_d435_picking.gif)
+
+Depth video comparing the Kea camera to the D435. 
